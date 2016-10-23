@@ -24,6 +24,8 @@ var pkg = require('./package.json');
 var bower = require('./bower.json');
 bower.packages = {};
 
+require('es6-promise').polyfill();
+
 var config = {
   main: '.',
   ts: ['plugins/**/*.ts'],

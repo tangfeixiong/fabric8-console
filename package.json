@@ -40,7 +40,7 @@
     "gulp-typescript": "^2.12.1",
     "gulp-uglify": "^1.2.0",
     "gulp-untar": "0.0.4",
-    "gulp-usemin": "^0.3.11",
+    "gulp-usemin": "0.3.10",
     "gulp-util": "^3.0.7",
     "gulp-watch": "^3.0.0",
     "hawtio-node-backend": "^2.0.5",
@@ -54,7 +54,8 @@
     "vinyl-paths": "^2.0.0",
     "which": "^1.0.8",
     "wiredep": "^2.2.2",
-    "yargs": "^4.6.0"
+    "yargs": "^4.6.0",
+    "es6-promise": "~4.0.5"
   },
   "dependencies": {}
 }
